@@ -1,4 +1,4 @@
-# FroneEndDeveloperCourse
+# FrontendDeveloperCourse
 
 With this course I master the basics of HTML and CSS.
 I know the anatomy of an HTML document, its elements and CSS properties.
